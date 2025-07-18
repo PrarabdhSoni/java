@@ -1,3 +1,5 @@
+package Methods;
+
 public class DecimalComparator {
         public static boolean areEqualByThreeDecimalPlaces(double num1, double num2){
             //  String temp = String.format("%.3f",num1);

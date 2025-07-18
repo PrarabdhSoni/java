@@ -1,3 +1,5 @@
+package Methods;
+
 public class IntEqualityPrinter {
     // write code here
 

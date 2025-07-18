@@ -1,3 +1,5 @@
+package Methods;
+
 public class MetricConversions {
     public static double convertToCentimeters(int heightInch){
         return heightInch * 2.54;

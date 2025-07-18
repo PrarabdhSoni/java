@@ -1,3 +1,5 @@
+package Methods;
+
 public class TeenChecker {
         public static boolean hasTeen(int num1, int num2, int num3){
 
