@@ -1,4 +1,4 @@
-package ControlStatements;
+package SwitchStatements;
 
 public class WordRepresentationOfNumbers {
         // write code here
